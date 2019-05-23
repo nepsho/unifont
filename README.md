@@ -53,38 +53,39 @@ option.font = normalEn | BorderBlock | DotBlock | GaintBold | Btalic | GaintItal
 You can use any one one font named above.
 
 ## Available Fonts (option.font)
-> **normalEn:** Simple alphabets.
->```Its a example```
+> **normalEn:** Simple alphabets. 
+![normalEnExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/normalEn_example.png)
 >
 > **SolidBlock:**
->```🅸🆃🆂  🅰  🅴🆇🅰🅼🅿🅻🅴```
+>![SolidBlockExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/SolidBlock_example.png)
 >  
 > **BorderBlock:**
->```🄸🅃🅂	🄰  🄴🅇🄰🄼🄿🄻🄴```
->
+>![BorderBlockExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/BorderBlock_example.png)
+> 
 > **DotBlock:**
->```🇮 🇹 🇸​  🇦  ​🇪 🇽​ 🇦 ​🇲 ​🇵 ​🇱 ​🇪 ```
->
+>![DotBlockExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/DotBlock_example.png)
+> 
 > **GaintBold:**
->```𝗜𝘁𝘀  𝗮  𝗲𝘅𝗮𝗺𝗽𝗹𝗲```
->
+>![GaintBoldExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/GaintBold_example.png)
+> 
 > **Btalic:**
->```𝙄𝙩𝙨 𝙖 𝙚𝙭𝙖𝙢𝙥𝙡𝙚```
->
+>![BtalicExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/Btalic_example.png)
+> 
 > **GaintItalic:**
->```𝘐𝘵𝘴 𝘢 𝘦𝘹𝘢𝘮𝘱𝘭𝘦```
->
+>![GaintItalicExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/GaintItalic_example.png)
+> 
 >**Alphol:**
->```𝕀𝕥𝕤 𝕒 𝕖𝕩𝕒𝕞𝕡𝕝𝕖```
->
+>![AlpholExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/Alphol_example.png)
+> 
 >**Bubble:**
->```Ⓘⓣⓢ ⓐ ⓔⓧⓐⓜⓟⓛⓔ```
->
+>![BubbleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/Bubble_example.png)
+> 
 > **BubbleFill:**
->```🅘🅣🅢  🅐  🅔🅧🅐🅜🅟🅛🅔```
->
+>![BubbleFillExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/BubbleFill_example.png)
+> 
 > **Cursive:**
->```𝐼𝓉𝓈 𝒶 𝑒𝓍𝒶𝓂𝓅𝓁𝑒```
+>![CursiveExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/Cursive_example.png)
+
 
 ## Available Style (option.style)
 >**Bold:**
@@ -98,15 +99,16 @@ You can use any one one font named above.
 >
 >**upr:**
 >(Its used to convert letters in lowercase with font)
->its a example
+>![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/upr_style_example.png)
 >
 >**lwr:**
 >(Its used to convert letters in uppercase with font)
->ITS A EXAMPLE
+>![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/lwr_style_example.png)
 >
 >**cap**
 >(Its used to capitalize first letter with font)
->Its a example
+>![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cap_style_example.png)
+>
 
 ## Examples
 
