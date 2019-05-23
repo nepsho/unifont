@@ -94,8 +94,7 @@ You can use any one one font named above.
 >*Its a example*
 >
 >**Underline:**
-> ͟I͟t͟s͟ ͟a͟ ͟e͟x͟a͟m͟p͟l͟e͟
->
+>![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/underline_example.png)
 >**upr:**
 >(Its used to convert letters in lowercase with font)
 >its a example
