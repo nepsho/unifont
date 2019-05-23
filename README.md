@@ -89,27 +89,27 @@ You can use any one one font named above.
 
 ## Available Style (option.style)
 >**Bold:**
->**Its a example**
->
+>![BoldStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/bold_style_examle.png )
+>  
 >**Italic:**
->*Its a example*
+>![ItalicStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/italic_style_eample.png )
 >
 >**Underline:**
->![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/underline_example.png)
+>![UnderlineStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/underline_example.png)
 >
 >**upr:**
 >(Its used to convert letters in lowercase with font)
->![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/upr_style_example.png)
+>![uprStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/upr_style_example.png)
 >
 >**lwr:**
 >(Its used to convert letters in uppercase with font)
->![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/lwr_style_example.png)
+>![lwrStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/lwr_style_example.png)
 >
 >**cap**
 >(Its used to capitalize first letter with font)
->![UnderLineExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cap_style_example.png)
+>![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cap_style_example.png)
 >
-
+  
 ## Examples
 
 ```js
