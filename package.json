@@ -1,5 +1,5 @@
 {
-  "name": "cmdart",
+  "name": "unifont",
   "version": "0.0.1",
   "description": "command prompt art",
   "main": "index.js",
@@ -10,9 +10,9 @@
     "test": "node index.js"
   },
   "license": "MIT",
-  "repository": "nepsho/cmdart",
+  "repository": "nepsho/unifont",
   "bugs": {
-    "url": "https://github.com/nepsho/cmdart/issues"
+    "url": "https://github.com/nepsho/unifont/issues"
   },
   "author": "bcrazydreamer <bcrazydreamer@gmail.com>",
   "homepage": "https://nepsho.github.io/",
