@@ -97,15 +97,15 @@ You can use any one one font named above.
 > ͟I͟t͟s͟ ͟a͟ ͟e͟x͟a͟m͟p͟l͟e͟
 >
 >**upr:**
->(its used to convert letters in lowercase with font)
+>(Its used to convert letters in lowercase with font)
 >its a example
 >
 >**lwr:**
->(its used to convert letters in uppercase with font)
+>(Its used to convert letters in uppercase with font)
 >ITS A EXAMPLE
 >
 >**cap**
->(its used to capitalize first letter with font)
+>(Its used to capitalize first letter with font)
 >Its a example
 
 ## Examples
