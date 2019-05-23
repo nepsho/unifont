@@ -42,7 +42,7 @@ $ yarn add unifont
 ```
 > Where as
 >  **[text]** should be *string*.
-> **[option]** can be Object and String only or ever *null* or *undefined*.
+> **[option]** can be *Object* and *String* only or ever *null* or *undefined*.
 
 ## Option
 Option can be null/undefined in case null/undefined it will not change any thing. It can be string but when its a sting then it must be a font name.
@@ -63,7 +63,7 @@ You can use any one one font named above.
 >🄸🅃🅂	🄰  🄴🅇🄰🄼🄿🄻🄴
 >
 > **DotBlock:**
->🇮🇹🇸​  🇦  ​🇪🇽​🇦🇲🇵​🇱🇪
+>🇮 🇹 🇸​   🇦   ​🇪 🇽 ​ 🇦 🇲 🇵 ​🇱 🇪
 >
 > **GaintBold:**
 >𝗜𝘁𝘀  𝗮  𝗲𝘅𝗮𝗺𝗽𝗹𝗲
