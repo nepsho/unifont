@@ -103,13 +103,13 @@ You can use any one one font named above.
 >>const font = require("unifont");
 ```
 ```js
->>var option = {
-	font : "Bubble",
-	style : ""
-}
+>> var option = {
+... 	font : "Bubble",
+... 	style : ""
+... }
 >>var text = font("Its a example",option);
 >>console.log(text)
->>🅘 🅣 🅢  🅐  🅔 🅧 🅐 🅜 🅟 🅛 🅔
+>>🅘🅣🅢  🅐  🅔🅧🅐🅜🅟🅛🅔
 ```
 ## licence
 MIT [licence](https://opensource.org/licenses/MIT)
