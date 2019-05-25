@@ -109,6 +109,9 @@ You can use any one one font named above.
 >(Its used to capitalize first letter with font)
 >![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cap_style_example.png)
 >
+
+## Sample CMD Output (Cursive font)
+![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cursive_sample_example.png)
   
 ## Examples
 
