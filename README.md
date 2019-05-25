@@ -44,6 +44,9 @@ $ yarn add unifont
 >  **[text]** should be *string*.
 > **[option]** can be *Object* and *String* only or ever *null* or *undefined*.
 
+## Sample CMD Output (Cursive font)
+![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cursive_sample_example.png)
+
 ## Option
 Option can be null/undefined in case null/undefined it will not change any thing. It can be string but when its a sting then it must be a font name.
 In case of string it will consider that as font and create **option.font** (Where option will be object)
@@ -110,9 +113,6 @@ You can use any one one font named above.
 >![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cap_style_example.png)
 >
 
-## Sample CMD Output (Cursive font)
-![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cursive_sample_example.png)
-  
 ## Examples
 
 ```js
