@@ -44,7 +44,7 @@ $ yarn add unifont
 >  **[text]** should be *string*.
 > **[option]** can be *Object* and *String* only or ever *null* or *undefined*.
 
-## Sample CMD Output (Cursive font)
+**Sample CMD Output (Cursive font)**
 ![capStyleExample](https://raw.githubusercontent.com/nepsho/nepsho.github.io/master/lib/img/unifont/cursive_sample_example.png)
 
 ## Option
