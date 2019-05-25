@@ -1,7 +1,7 @@
 {
   "name": "unifont",
   "version": "1.0.0",
-  "description": "command prompt art",
+  "description": "NodeJs font editor for cmd",
   "main": "index.js",
   "contributors": [
     "bcrazydreamer <bcrazydreamer@gmail.com>"
